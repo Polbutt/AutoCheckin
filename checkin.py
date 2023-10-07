@@ -16,9 +16,9 @@ from PIL import Image
     1.课程参数：
     course_list = [
         {
-            'name':  # 你的姓名
-            'url':  # 课程的任务页面/活动首页
-            'course_name':  # 课程名称，用于单课程签到指令和提示输出
+            'name':  # 李子木
+            'url':  # https://mooc2-ans.chaoxing.com/mooc2-ans/mycourse/stu?courseid=236262297&clazzid=80524458&cpi=265008112&enc=11f1e7f275a0b1e4d12d780138a30a5d&t=1696641745691&pageHeader=0&v=2
+            'course_name':  # 马克思主义基本原理
         }
     ]
     

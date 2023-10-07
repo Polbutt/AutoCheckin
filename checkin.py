@@ -39,9 +39,9 @@ from PIL import Image
 # 需要签到的课程列表
 course_list = [
     {
-        'name': "",  # 姓名
-        'url': '',
-        'course_name': ''
+        'name': "李子木",  # 姓名
+        'url': 'https://mooc2-ans.chaoxing.com/mooc2-ans/mycourse/stu?courseid=236262297&clazzid=80524458&cpi=265008112&enc=11f1e7f275a0b1e4d12d780138a30a5d&t=1696641745691&pageHeader=0&v=2',
+        'course_name': '马克思主义基本原理'
     }
 ]
 # 编辑位置信息
